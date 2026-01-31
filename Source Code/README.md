@@ -34,7 +34,7 @@ ATM-System/
 ## Installation & Usage
 1. Clone the repository:
 
-git clone https://github.com/yourusername/atm-management-system.git 
+git clone [https://github.com/yourusername/atm-management-system.git ](https://github.com/sedra-xyz/java-atm-banking-system.git)
 
 2. Navigate to the project directory:
 cd atm-management-system
